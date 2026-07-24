@@ -1,0 +1,21 @@
+Regestration_No = input("Enter Regestration_No: ")
+Student_Name = input("Student_Name: ")
+Department = input("Department: ")
+Semester = input("Semester: ")
+
+Student_Profile = ("Regestration_No", "Student_Name", "Department", "Semester")
+print("\n======== Student_Profile =========")
+print("Regestration_No:", Student_Profile[0])
+print("Student_Name:", Student_Profile[1])
+print("Department:", Student_Profile[2])
+print("Semester:", Student_Profile[3])
+
+print("\n====String_Operation_Name=====")
+print("Uppercase:", Student_Name.upper())
+print("Lowercase:", Student_Name.lower())
+print("Title Case:", Student_Name.title())
+print("Length of Name:", len(Student_Name))
+
+print("\nTotal Item in Tuple:", len(Student_Profile))
+print("\nfirst two items:", Student_Profile[:2])
+print("Last two items:", Student_Profile[-2:])
