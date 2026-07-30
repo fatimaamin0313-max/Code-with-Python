@@ -1,0 +1,1 @@
+![Alt Text](images/a_clean_colorful_infographic_poster_style_tutor.png)
