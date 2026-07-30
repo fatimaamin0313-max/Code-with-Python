@@ -19,3 +19,4 @@
 10. Display all dictionary keys.
 11. Display all dictionary values.
 12. Display the final updated dictionary.
+![Alt Text](images/a_clean_colorful_infographic_poster_style_tutor.png)

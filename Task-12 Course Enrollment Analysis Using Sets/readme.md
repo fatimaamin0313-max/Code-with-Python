@@ -8,3 +8,4 @@
 8. Display the total number of students in each course.
 9. Display the total number of unique students.
 10. Display the final analysis report.
+![Alt Text](https://chatgpt.com/s/m_6a6aea7fcf1c8191a31b263ee1144ecd)

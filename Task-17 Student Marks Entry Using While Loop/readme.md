@@ -16,3 +16,4 @@
 7. After all entries are completed:
    • Display the complete record of all students.
    • Display the total number of students entered.
+![Alt Text](https://chatgpt.com/s/m_6a6af2571be88191aaf213e5e8a675e7)

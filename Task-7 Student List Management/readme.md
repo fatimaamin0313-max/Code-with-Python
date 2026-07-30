@@ -8,3 +8,4 @@ Remove the last student from the list.
 Find and display the position of a specific student.
 Display the total number of students in the list.
 Display the final updated list.
+![Alt Text](https://chatgpt.com/s/m_6a6ae7b0b60c81918ab7ceae3205cc5e)

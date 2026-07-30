@@ -8,3 +8,4 @@
 8. Sort the list alphabetically.
 9. Reverse the list order.
 10. Display the updated list after each operation.
+![Alt Text](https://chatgpt.com/s/m_6a6ae6bfb8008191af226e5f0415aa9a)

@@ -9,3 +9,4 @@
 
    * Total number of characters
    * Total number of words
+   ![Alt Text](https://chatgpt.com/s/m_6a6a4102df4881919992f38ff1c54814)

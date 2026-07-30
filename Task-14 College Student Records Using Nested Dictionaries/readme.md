@@ -17,3 +17,4 @@
 11. Remove the *University* field.
 12. Display the keys and values of the first student's record.
 13. Display the final updated nested dictionary.
+![Alt Text](https://chatgpt.com/s/m_6a6aed0266908191849c96044b223fc9)

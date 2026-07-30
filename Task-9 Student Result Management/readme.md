@@ -23,3 +23,4 @@
    * Convert to lowercase
    * Display name length
 7. Display all information in a formatted report.
+![Alt Text](https://chatgpt.com/s/m_6a6ae951093081918a61ae38d4e71578)

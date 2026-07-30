@@ -13,3 +13,4 @@
 * Half of the number
 * Double of the number
 9️ Display all results in a well-formatted output report.
+![Alt Text](https://chatgpt.com/s/m_6a6aeda91648819186f129d3f5390b6a)
