@@ -6,5 +6,6 @@
 - type()Function
 - Type casting and user input
 - Welcome
-<img src="image/D:\Code-with-Python\Task-1-10 variables (personal information)\image\task-1 image.PNG">
-<img src="image/D:\Code-with-Python\Task-1-10 variables (personal information)\image\task1image.PNG">
+<p align="center">
+	<img src="images/output.PNG" width="200" alt="Task-1 output">
+</p>	
