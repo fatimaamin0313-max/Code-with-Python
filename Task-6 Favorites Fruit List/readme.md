@@ -1,3 +1,4 @@
+# Task-6
 1. Create a list named fruits containing at least 5 favorite fruits.
 2. Display the complete list.
 3. Display the first fruit and the last fruit.
@@ -8,4 +9,4 @@
 8. Sort the list alphabetically.
 9. Reverse the list order.
 10. Display the updated list after each operation.
-![Alt Text](https://chatgpt.com/s/m_6a6ae6bfb8008191af226e5f0415aa9a)
+<img src="image/D:\Code-with-Python\Task-6 Favorites Fruit List\image\task-6 image.PNG">

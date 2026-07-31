@@ -1,3 +1,4 @@
+# Task-10
 1. Take input for 5 subject names.
 2. Store all subject names in a list.
 3. Display the complete subject list.
@@ -11,4 +12,4 @@
    * Title Case
    * Length of subject name
 8. Display the final updated subject list.
-![Alt Text](https://chatgpt.com/s/m_6a6a35ace8108191b89d8fde33907ddd)
+<img src="image/D:\Code-with-Python\Task-10 Subject Information System\image\task-10 image.PNG">

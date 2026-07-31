@@ -1,3 +1,4 @@
+# Task-5.2
 1. Takes a sentence as input.
 2. Displays the sentence in:
 
@@ -9,4 +10,4 @@
 
    * Total number of characters
    * Total number of words
-   ![Alt Text](https://chatgpt.com/s/m_6a6a4102df4881919992f38ff1c54814)
+<img src="imges/D:\Code-with-Python\Task-5.2 Text Case Converter\images\task-5.2 image.PNG">

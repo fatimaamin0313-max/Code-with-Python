@@ -1,4 +1,5 @@
-1 Take input for:
+# Task-16
+1- Take input for:
 
 * Student Name
 * Registration Number
@@ -6,15 +7,15 @@
 * Chemistry Marks
 * Mathematics Marks
 
-2 Store the subject marks in a list.
+2- Store the subject marks in a list.
 
-3 Calculate and display:
+3- Calculate and display:
 
 * Total Marks
 * Average Marks
 * Percentage
 
-4 Assign a grade based on the percentage:
+4- Assign a grade based on the percentage:
 
 * 90% and above → A+
 * 80% to 89% → A
@@ -23,16 +24,16 @@
 * 50% to 59% → D
 * Below 50% → F
 
-5 Apply the following string operations on the student name:
+5- Apply the following string operations on the student name:
 
 * Convert to UPPERCASE
 * Convert to lowercase
 * Convert to Title Case
 * Display the length of the name
 
-6 Store the complete student record in a dictionary.
+6- Store the complete student record in a dictionary.
 
-7 Display a well-formatted Result Card showing:
+7- Display a well-formatted Result Card showing:
 
 * Registration Number
 * Student Name
@@ -41,4 +42,4 @@
 * Average Marks
 * Percentage
 * Grade
-![Alt Text](https://chatgpt.com/s/m_6a6aeef10af481919560b99924efb896)
+<img src="image/D:\Code-with-Python\Task-16 Student Grading System\image\task-16 image.PNG">

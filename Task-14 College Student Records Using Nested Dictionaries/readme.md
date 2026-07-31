@@ -1,3 +1,4 @@
+# Task-14
 1. Create a nested dictionary named students.
 2. Store information for 5 students. Each student should contain:
 
@@ -17,4 +18,5 @@
 11. Remove the *University* field.
 12. Display the keys and values of the first student's record.
 13. Display the final updated nested dictionary.
-![Alt Text](https://chatgpt.com/s/m_6a6aed0266908191849c96044b223fc9)
+<img src="image/D:\Code-with-Python\Task-14 College Student Records Using Nested Dictionaries\image\task-14 image.PNG">
+<img src="image/D:\Code-with-Python\Task-14 College Student Records Using Nested Dictionaries\image\task14 image.PNG">

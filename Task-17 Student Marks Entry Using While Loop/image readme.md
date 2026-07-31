@@ -1,1 +1,0 @@
-![Alt Text](https://chatgpt.com/s/m_6a6af2571be88191aaf213e5e8a675e7)

@@ -1,1 +1,0 @@
-![Alt Text]((images/a_clean_infographic_style_slide_poster_about_a.png))

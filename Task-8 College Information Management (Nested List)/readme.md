@@ -13,4 +13,4 @@
 9. Remove a college record.
 10. Display the total number of colleges.
 11. Display the final updated list.
-![Alt Text](https://chatgpt.com/s/m_6a6ae862656481919454a44d3891d5d7)
+<img src="image/D:\Code-with-Python\Task-8 College Information Management (Nested List)\image\task-8 image.PNG">

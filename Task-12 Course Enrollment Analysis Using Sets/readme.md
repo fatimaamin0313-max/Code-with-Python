@@ -1,3 +1,4 @@
+# Task-12
 1. Create a set of students enrolled in Python.
 2. Create a set of students enrolled in AI.
 3. Display both sets.
@@ -8,4 +9,5 @@
 8. Display the total number of students in each course.
 9. Display the total number of unique students.
 10. Display the final analysis report.
-![Alt Text](https://chatgpt.com/s/m_6a6aea7fcf1c8191a31b263ee1144ecd)
+<img src="image/D:\Code-with-Python\Task-12 Course Enrollment Analysis Using Sets\image\task-12 image.PNG">
+<img src="image/D:\Code-with-Python\Task-12 Course Enrollment Analysis Using Sets\image\task12 image.PNG">

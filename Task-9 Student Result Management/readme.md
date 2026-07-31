@@ -1,3 +1,4 @@
+# Task-9
 1. Take input for:
 
    * Student Name
@@ -23,4 +24,4 @@
    * Convert to lowercase
    * Display name length
 7. Display all information in a formatted report.
-![Alt Text](https://chatgpt.com/s/m_6a6ae951093081918a61ae38d4e71578)
+<img src="image/D:\Code-with-Python\Task-9 Student Result Management\image\task-9 image.PNG">

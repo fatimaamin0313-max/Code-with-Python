@@ -1,3 +1,4 @@
+# TAsk-15
 1 Display a welcome message.
 2️ Take a number as input from the user.
 3️ Check whether the number is:
@@ -13,4 +14,4 @@
 * Half of the number
 * Double of the number
 9️ Display all results in a well-formatted output report.
-![Alt Text](https://chatgpt.com/s/m_6a6aeda91648819186f129d3f5390b6a)
+<img src="image/D:\Code-with-Python\Task-15 Number Analyzer Using If Statement\image\task-15 image.PNG">
