@@ -7,7 +7,7 @@
 - Type casting and user input
 - Welcome
 <p align="center">
-	<img src="images/output.PNG" width="200" alt="Task-3 output">
+	<img src="images/output.PNG" width="400" alt="Task-3 output">
 </p>
-	
+
 
