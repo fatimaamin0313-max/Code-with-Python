@@ -6,4 +6,8 @@
 - Type()Function
 - Type casting and user input
 - Welcome
-<img src="image/D:\Code-with-Python\Task-3 Dispaly a Welcome Massage\image\task-3 image.PNG">
+<p align="center">
+	<img src="images/output.PNG" width="200" alt="Task-3 output">
+</p>
+	
+
