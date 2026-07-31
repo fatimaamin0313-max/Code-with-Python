@@ -1,4 +1,6 @@
 # Task-16
+
+## I learned in lesson
 1- Take input for:
 
 * Student Name
@@ -42,4 +44,11 @@
 * Average Marks
 * Percentage
 * Grade
-<img src="image/D:\Code-with-Python\Task-16 Student Grading System\image\task-16 image.PNG">
+
+## Task#16
+Student Grading System
+
+# Output
+<p align="center">
+	<img src="images/output.PNG" width="400" alt="Task-16 output">
+</p>	

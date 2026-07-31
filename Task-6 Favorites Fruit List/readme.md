@@ -1,4 +1,6 @@
 # Task-6
+
+## I learned in lesson
 1. Create a list named fruits containing at least 5 favorite fruits.
 2. Display the complete list.
 3. Display the first fruit and the last fruit.
@@ -9,4 +11,11 @@
 8. Sort the list alphabetically.
 9. Reverse the list order.
 10. Display the updated list after each operation.
-<img src="image/D:\Code-with-Python\Task-6 Favorites Fruit List\image\task-6 image.PNG">
+
+## Task#6
+Favorites Fruit List
+
+# Output
+<p align="center">
+	<img src="images/output.PNG" width="400" alt="Task-6 output">
+</p>	

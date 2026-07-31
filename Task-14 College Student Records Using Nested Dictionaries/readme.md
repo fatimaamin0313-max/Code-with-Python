@@ -1,4 +1,6 @@
 # Task-14
+
+## I learned in lesson
 1. Create a nested dictionary named students.
 2. Store information for 5 students. Each student should contain:
 
@@ -18,5 +20,12 @@
 11. Remove the *University* field.
 12. Display the keys and values of the first student's record.
 13. Display the final updated nested dictionary.
-<img src="image/D:\Code-with-Python\Task-14 College Student Records Using Nested Dictionaries\image\task-14 image.PNG">
-<img src="image/D:\Code-with-Python\Task-14 College Student Records Using Nested Dictionaries\image\task14 image.PNG">
+
+## Task#14
+College Student Records Using Nested Dictionaries
+
+# Output
+<p align="center">
+   <img src="images/output.PNG" width="400" alt="Task-14 output">
+   <img src="images/Output .PNG" width="400" alt="Task-14 output">
+</p>

@@ -1,4 +1,6 @@
 # Task-7
+
+## I learned in lesson
 - Create a list named students containing 5 student names.
 - Display the complete list.
 - Add a new student to the list.
@@ -9,4 +11,11 @@
 - Find and display the position of a specific student.
 - Display the total number of students in the list.
 - Display the final updated list.
-<img src="image/D:\Code-with-Python\Task-7 Student List Management\image\task-7 image.PNG">
+## Task#7
+Student List Managment
+
+# Output
+<p align="center">
+	<img src="images/output.PNG" width="400" alt="Task-7 output">
+</p>
+	

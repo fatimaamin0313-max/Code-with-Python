@@ -1,4 +1,6 @@
 # TAsk-15
+
+## I learned in lesson
 1 Display a welcome message.
 2️ Take a number as input from the user.
 3️ Check whether the number is:
@@ -14,4 +16,12 @@
 * Half of the number
 * Double of the number
 9️ Display all results in a well-formatted output report.
-<img src="image/D:\Code-with-Python\Task-15 Number Analyzer Using If Statement\image\task-15 image.PNG">
+
+## Task#15
+Number Analyzer Using If Statement
+
+# Output
+<p align="center">
+	<img src="images/output.PNG" width="400" alt="Task-15 output">
+	<img src="images/Output .PNG" width="400" alt="Task-15 output">
+</p>

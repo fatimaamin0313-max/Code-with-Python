@@ -1,4 +1,6 @@
 # Task-11
+
+## I learned in lesson
 1. Take input for:
 
    * Registration Number
@@ -16,4 +18,11 @@
    * Length of name
 6. Display the total number of items stored in the tuple.
 7. Display the first two and last two items.
-<img src="image/D:\Code-with-Python\Task-11 Student Profile Using Tuple\image\task-11 image.PNG">
+
+## Task#11
+Student Profile Using Tuple
+
+# Output
+<p align="center">
+   <img src="images/output.PNG" width="400" alt="Task-11 output">
+  </p> 

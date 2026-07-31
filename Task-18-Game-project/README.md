@@ -1,4 +1,6 @@
 # Task-18
+
+## I learned in lesson
 1. Display a welcome message for the game.
 2. Generate a secret number between 1 and 100.
 3. Ask the user to guess the number.
@@ -37,5 +39,13 @@ Bonus Challenge
 - Display Game Over if all chances are used.
 - Show the correct number at the end if the player loses.
 - Keep track of the best score (minimum number of attempts) during the session.
-<img src="image/D:\Code-with-Python\Task-18-Game-project\image\task-18 image.PNG">
-<img src="image/D:\Code-with-Python\Task-18-Game-project\image\task18 image.PNG">
+
+## Task#18
+Game Project
+
+# Output
+<p align="center">
+   <img src="images/output.PNG" width="400" alt="Task-18 output">
+   <img src="images/outputt.PNG" width="400" alt="Task-18 output">
+</p>
+

@@ -1,4 +1,6 @@
 # Task-5.2
+
+## I learned in lesson
 1. Takes a sentence as input.
 2. Displays the sentence in:
 
@@ -10,4 +12,11 @@
 
    * Total number of characters
    * Total number of words
-<img src="imges/D:\Code-with-Python\Task-5.2 Text Case Converter\images\task-5.2 image.PNG">
+
+## Task#5.2
+Text Case Converter
+
+# Output   
+<p align="center">
+   <img src="images/output.PNG" width="400" alt="Task-5.2 output">
+  </p> 

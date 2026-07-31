@@ -1,4 +1,6 @@
 # Task-9
+
+## I learned in lesson
 1. Take input for:
 
    * Student Name
@@ -24,4 +26,12 @@
    * Convert to lowercase
    * Display name length
 7. Display all information in a formatted report.
-<img src="image/D:\Code-with-Python\Task-9 Student Result Management\image\task-9 image.PNG">
+
+## Task#9
+Student Result Management
+
+# Output
+<p align="center">
+   <img src="images/output.PNG" width="400" alt="Task-9 output">
+  </p>
+   

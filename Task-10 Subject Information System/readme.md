@@ -1,4 +1,6 @@
 # Task-10
+
+## I learned in lesson
 1. Take input for 5 subject names.
 2. Store all subject names in a list.
 3. Display the complete subject list.
@@ -12,4 +14,12 @@
    * Title Case
    * Length of subject name
 8. Display the final updated subject list.
-<img src="image/D:\Code-with-Python\Task-10 Subject Information System\image\task-10 image.PNG">
+
+## Task#10
+Subject Information System
+
+# Output
+<p align ="200">
+   <img src="images/output.PNG" width="200" alt="Task-10 output">
+  </p>
+   

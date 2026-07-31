@@ -1,4 +1,6 @@
 # Task-4
+
+## I learned in lesson
 - Ask the user to enter the first number.
 - Ask the user to enter the second number.
 - display:
@@ -6,4 +8,12 @@
 -        ->Difference of the numbers
 -       ->Product of the numbers
 -        ->division of the numbers
-<img src="images/D:\Code-with-Python\Task-4 Build a Simple Calculator\images\task-4 image.PNG">
+
+## Task#4
+Build a Simple Calculator
+
+# Output
+<p align="center">
+	<img src="images/output.PNG" width="400" alt="Task-4 output">
+</p>
+

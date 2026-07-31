@@ -1,3 +1,6 @@
+# Task-8
+
+## I learned in lesson
 1. Create a nested list named "colleges".
 2. Store information for at least 3 colleges:
    - College ID
@@ -13,4 +16,13 @@
 9. Remove a college record.
 10. Display the total number of colleges.
 11. Display the final updated list.
-<img src="image/D:\Code-with-Python\Task-8 College Information Management (Nested List)\image\task-8 image.PNG">
+
+## Task#8
+College Information Managment(Nisted List)
+
+# Output
+<p align="center">
+   <img src="images/output.PNG" width="200" alt="Task-8 output">
+  </p>
+   
+
